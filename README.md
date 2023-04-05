@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fkeyzuwu
-- 👀 I’m interested in making games.
-- 🌱 I’m currently learning C# and Unity, on my list is to get good at Python(general use), JS(with React), and C++(for game development).
-- 💞️ I’m looking to collaborate on games if anybody wants to try
+- 👀 I’m a self taught indie game dev, working in Unity with C#, and Godot with both GDScript and C#.
+- 🌱 I'm also learning C++ and high level math in order to be able to upgrade my game dev abilities, as well as audio programming.
+- 💞️ I’m looking to collaborate on games or work at a game dev studio
 - 📫 You can reach me on twitter @fkeyz
 
 <!---
