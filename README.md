@@ -1,6 +1,6 @@
 - 👋 Hi, I’m fkeyz!
-- 👀 I’m a self taught indie game dev, working in Unity with C#, and Godot with both GDScript and C#.
-- 🌱 I'm also learning C++ and high level math in order to be able to upgrade my game dev abilities, as well as audio programming.
+- 👀 I’m a self taught indie game dev, working in Unity with C#, and Godot with GDScript, C# and C++.
+- 🌱 I also do audio development using the JUCE framework, using C++.
 - 💞️ I’m looking to collaborate on games or work at a game dev studio.
 - 📫 You can reach me on twitter @fkeyz.
 
